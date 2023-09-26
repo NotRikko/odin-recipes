@@ -1,1 +1,2 @@
-# odin-recipes
+My first HTML project for the Recipe Project section of The Odin Project!
+Here I will be demonstrating the many HTML skills I have acquired during the HTML section of the pgoram including links, images and overall barebone website design.
