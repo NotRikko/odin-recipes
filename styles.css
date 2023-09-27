@@ -1,0 +1,11 @@
+body {
+    background-color:blanchedalmond;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    position: relative;
+    right: 15px;
+}

@@ -1,0 +1,16 @@
+body {
+    background-color: blanchedalmond;
+    text-align:center
+}
+
+ul {
+    text-align: left;
+}
+
+ol {
+    text-align: left;
+}
+
+.ingredients {
+    text-align: center;
+}
