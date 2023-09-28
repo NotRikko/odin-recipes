@@ -22,6 +22,8 @@ h1 {
     background-color:whitesmoke;
     border-radius: 25px;
     padding: 10px;
+    max-width: 520px;
+    margin: 20px auto;
 }
 
 h2{
@@ -29,19 +31,25 @@ h2{
     background-color:whitesmoke;
     border-radius: 25px;
     padding: 5px;
+    max-width: 520px;
+    margin: 20px auto;
 }
 
 h4 {
     background-color: whitesmoke;
     border-radius: 25px;
-    padding: 2px;
+    padding: 4px;
+    max-width: 490px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .list {
     background-color: rgb(228, 179, 134);
     padding: 8px;
-    margin: 8px;
+    margin: 8px auto;
     border-radius: 25px;
+    max-width: 440px ;
 }
 
 a {
