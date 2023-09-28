@@ -1,5 +1,5 @@
 body {
-    background-color:blanchedalmond;
+    background-color:rgb(142, 172, 104);
     text-align: center;
 }
 
@@ -8,4 +8,44 @@ ul {
     text-align: center;
     position: relative;
     right: 15px;
+}
+
+.card {
+    background-color:antiquewhite;
+    border-radius: 30px;
+    margin: 45px;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 40px;
+    background-color:whitesmoke;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+h2{
+    font-size: 25px;
+    background-color:whitesmoke;
+    border-radius: 25px;
+    padding: 5px;
+}
+
+h4 {
+    background-color: whitesmoke;
+    border-radius: 25px;
+    padding: 2px;
+}
+
+.list {
+    background-color: rgb(228, 179, 134);
+    padding: 8px;
+    margin: 8px;
+    border-radius: 25px;
+}
+
+a {
+    text-decoration:none;
+    color: inherit;
+    display: block;
 }
